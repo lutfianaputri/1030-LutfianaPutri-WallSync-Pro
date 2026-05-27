@@ -20,10 +20,12 @@ WallSync adalah aplikasi manajemen keuangan pribadi (*personal finance tracker*)
 ## Dokumentasi
 <img width="1920" height="1080" alt="Screenshot (489)" src="https://github.com/user-attachments/assets/78b17ed2-5094-4ac4-b914-54d17a11387c" />
 
-<img width="1920" height="1080" alt="Screenshot (490)" src="https://github.com/user-attachments/assets/a8c9fef4-b279-4a41-b51a-a9b3312ae843" />
+<img width="1920" height="1080" alt="Screenshot (494)" src="https://github.com/user-attachments/assets/d4b34b8f-3ef4-4854-a00b-a25c9b63765d" />
 
-<img width="1920" height="1080" alt="Screenshot (491)" src="https://github.com/user-attachments/assets/189dd9c0-1bbf-4217-bed7-ed504debf2b5" />
+<img width="1920" height="1080" alt="Screenshot (495)" src="https://github.com/user-attachments/assets/06da1065-dd8c-4585-a917-a8df73345de8" />
 
-<img width="1920" height="1080" alt="Screenshot (490)" src="https://github.com/user-attachments/assets/8a0264ea-23b7-4abf-949a-65dfc7717c3c" />
+<img width="1920" height="1080" alt="Screenshot (496)" src="https://github.com/user-attachments/assets/eb237006-e0e9-4c50-bcf1-893d60deb700" />
+
+<img width="1920" height="1080" alt="Screenshot (491)" src="https://github.com/user-attachments/assets/98206d18-ef5f-41a9-a7be-829d5521cb7c" />
 
 <img width="1920" height="1080" alt="Screenshot (489)" src="https://github.com/user-attachments/assets/d17e1562-5022-475e-8c97-dd5a3c2f23fd" />
