@@ -17,13 +17,6 @@ WallSync adalah aplikasi manajemen keuangan pribadi (*personal finance tracker*)
 - **Library Grafik**: Chart.js
 - **Database**: SQLite (Development) / PostgreSQL/MySQL ready
 
-## Prasyarat Sistem
-
-Sebelum memulai instalasi, pastikan komputer Anda telah terpasang:
-- PHP >= 8.2
-- Composer
-- Node.js & NPM
-
 ## Dokumentasi
 <img width="1920" height="1080" alt="Screenshot (489)" src="https://github.com/user-attachments/assets/78b17ed2-5094-4ac4-b914-54d17a11387c" />
 
